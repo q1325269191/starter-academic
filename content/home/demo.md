@@ -50,9 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-## AAB小白2.0-01脚本AAB
+## AAB小白脚本AAB
 
-The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
+AA01小白脚本2.0-01AA01不弹窗AA01弹窗内容AA01正常使用AA01
 
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
