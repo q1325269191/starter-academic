@@ -62,6 +62,8 @@ AA04小白脚本4.0-01AA04不弹窗AA04弹窗内容AA04正常使用AA04
 
 AA05小白脚本5.0-01AA05不弹窗AA05弹窗内容AA05正常使用AA05
 
+AA06小白脚本6.0-01AA06不弹窗AA06弹窗内容AA06正常使用AA06
+
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
 [**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
