@@ -62,7 +62,7 @@ AA04小白脚本4.0-01AA04不弹窗AA04弹窗内容AA04正常使用AA04
 
 AA05小白脚本5.0-01AA05不弹窗AA05弹窗内容AA05正常使用AA05
 
-AA06小白脚本6.0-01AA06不弹窗AA06弹窗内容AA06正常使用AA06
+AA06小白脚本6.0-01AA06弹窗AA066.0版本有重大BUG，现在已经停止使用，请用其他版本AA06关闭脚本AA06
 
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
